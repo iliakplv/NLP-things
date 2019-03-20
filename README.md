@@ -52,6 +52,8 @@
 
 [scikit-learn](http://scikit-learn.org/stable/index.html)
 
+[gensim](https://radimrehurek.com/gensim/index.html)
+
 [NLTK](http://www.nltk.org/)
 
 [TextBlob](https://textblob.readthedocs.io/en/dev/)
